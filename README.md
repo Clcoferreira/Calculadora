@@ -1,2 +1,2 @@
-# Desafio-calculadora
+# Calculadora
 Sintaxe Básica em JavaScript
